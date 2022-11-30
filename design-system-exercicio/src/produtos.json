@@ -1,0 +1,23 @@
+[
+  {
+    "photo": "https://m.media-amazon.com/images/I/51+iQTwDsXL._AC_SL1000_.jpg",
+    "brand": "Amazon", 
+    "name": "Echo Dot (3ª Geração): Smart Speaker com Alexa",
+    "priceDiscount": "299.00",
+    "priceNormal": "331.55"
+  },
+  {
+    "photo": "https://m.media-amazon.com/images/I/618tJ9j7+WL._AC_SL1000_.jpg",
+    "brand": "Amazon", 
+    "name": "Echo Dot (4ª Geração): Smart Speaker com Alexa | Música, informação e Casa Inteligente",
+    "priceDiscount": "349.00",
+    "priceNormal": "379.75"
+  },
+  {
+    "photo": "https://m.media-amazon.com/images/I/71q+BGRMBmL._AC_SL1500_.jpg",
+    "brand": "Amazon", 
+    "name": "Echo Show 8 (2ª Geração): Smart Display HD de 8' com Alexa e câmera de 13 MP",
+    "priceDiscount": "899.00",
+    "priceNormal": "949.05"
+  }
+]
